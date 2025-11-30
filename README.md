@@ -1,39 +1,35 @@
 
+# 🍴 OMATO Food Delivery Dashboard Report – Power BI
 
-Project Title
-
-🍴 OMATO Food Delivery Dashboard Report – Power BI
-
-
-📘 Project Overview
+📘 **Project Overview**
 
 This project is an Interactive Power BI Dashboard built on OMATO Food Delivery Data to analyze and visualize key business insights related to sales, transactions, and delivery performance.
 
 With the help of DAX formulas, the dashboard provides detailed analysis across multiple dimensions such as Food Type, Member Type, Payment Mode, and Restaurant Type — helping to understand customer behavior and sales patterns effectively.
 
-🗂️ Repository Contents
+🗂️ **Repository Contents**
 
-File Name	Description
+**File Name Description**
 
-OMATO_Food_Delivery_Dashboard_Report.pbix	Power BI project file containing the interactive dashboard.
+1. OMATO_Food_Delivery_Dashboard_Report.pbix Power BI project file containing the interactive dashboard.
 
-OMATO_Data.xlsx	Main dataset containing consolidated OMATO data.
+2. OMATO_Data.xlsx Main dataset containing consolidated OMATO data.
 
-January_2023_Sales.xlsx	Monthly sales data for January 2023.
+3. January_2023_Sales.xlsx Monthly sales data for January 2023.
 
-February_2023_Sales.xlsx	Monthly sales data for February 2023.
+4. February_2023_Sales.xlsx Monthly sales data for February 2023.
 
-March_2023_Sales.xlsx	Monthly sales data for March 2023.
+5. March_2023_Sales.xlsx Monthly sales data for March 2023.
 
-April_2023_Sales.xlsx	Monthly sales data for April 2023.
+6. April_2023_Sales.xlsx Monthly sales data for April 2023.
 
-OMATO_Food_Delivery_Dashboard_Report.png	Image preview of the dashboard.
+7. OMATO_Food_Delivery_Dashboard_Report.png Image preview of the dashboard.
 
-📊 Dashboard Insights
+📊 **Dashboard Insights**
 
 The dashboard reveals a variety of meaningful insights through multiple charts and metrics:
 
-🔹 Key Metrics
+🔹 **Key Metrics**
 
 ✅Total Quantity: 15K
 
@@ -41,8 +37,7 @@ The dashboard reveals a variety of meaningful insights through multiple charts a
 
 ✅Average Quantity: 5.50
 
-
-🔹 Visual Insights
+🔹 **Visual Insights**
 
 1️⃣Total Quantity by Month: Trend analysis of food quantity sold from January to April.
 
@@ -56,9 +51,7 @@ The dashboard reveals a variety of meaningful insights through multiple charts a
 
 6️⃣Transactions by Food Type & Member Type: Comparison of Gold and Regular members across food categories.
 
-
-⚙️ Tools & Technologies Used
-
+⚙️ **Tools & Technologies Used**
 
 👉🏻Microsoft Power BI – For interactive dashboard creation and visualization
 
@@ -66,9 +59,7 @@ The dashboard reveals a variety of meaningful insights through multiple charts a
 
 👉🏻DAX (Data Analysis Expressions) – For calculated columns and key performance metrics
 
-
-🧮 Key DAX Measures Used
-
+🧮 **Key DAX Measures Used**
 
 Some of the DAX formulas applied in this project include:
 
@@ -84,8 +75,7 @@ Some of the DAX formulas applied in this project include:
 
 These DAX measures help generate accurate and dynamic KPIs used throughout the dashboard.
 
-
-🧠 Learning & Takeaways
+🧠 **Learning & Takeaways**
 
 💠Learned to clean, model, and visualize data in Power BI
 
@@ -95,12 +85,9 @@ These DAX measures help generate accurate and dynamic KPIs used throughout the d
 
 💠Enhanced ability to communicate business insights visually
 
+🖼️ **Dashboard Preview**
 
-🖼️ Dashboard Preview
-
-
-🚀 How to Use
-
+🚀 **How to Use**
 
 👉🏻Download or clone this repository to your system.
 
@@ -118,19 +105,19 @@ These DAX measures help generate accurate and dynamic KPIs used throughout the d
 
 ✅Restaurant Type 🍽️
 
-
-👩‍💻 Author
+👩‍💻 **Author**
 
 Saheli Nath
 
-📧Linkedin Profile: [https://www.linkedin.com/in/saheli-nath28/]
+📧**Linkedin Profile:** [https://www.linkedin.com/in/saheli-nath28/]
 
-Email: [nathsaheli1999@gmail.com]
+**Email:** [nathsaheli1999@gmail.com]
 
-
-⭐ Acknowledgment
+⭐ **Acknowledgment**
 
 This project was created as part of my Power BI learning journey, demonstrating the application of DAX, data modeling, and visualization techniques to extract insights from food delivery data.
 
 If you found this project useful or inspiring, don’t forget to ⭐ star this repository!
+
+
 

@@ -87,6 +87,8 @@ These DAX measures help generate accurate and dynamic KPIs used throughout the d
 
 🖼️ **Dashboard Preview**
 
+<img src="https://github.com/sahelinath22/OMATO-Food-Delivery-Dashboard-Report-Project/blob/6f800117a58543c55ce002bc00d8cab561aad257/OMATO%20Food%20Delivery%20Dashboard%20Report%20by%20SAHELI%20NATH.png" alt="Image Description" width="600">
+
 🚀 **How to Use**
 
 👉🏻Download or clone this repository to your system.
